@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import './App.css';
 
-const API_KEY = 'be3010bbae3f8a77c5765af005b9ed95'; // Replace with your TMDB API Key
+const API_KEY = 'abc'; // Replace with your TMDB API Key
 const BASE_URL = 'https://api.themoviedb.org/3';
 const IMAGE_BASE_URL = 'https://image.tmdb.org/t/p/w200';
 
